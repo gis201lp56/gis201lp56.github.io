@@ -1,0 +1,22 @@
+# 覆盖 D:\Desktop\Project\hexo-blog\node_modules\hexo-theme-fluid\_config.yml
+index:
+  banner_img: /img/bk.jpg
+  slogan:
+    text: "GeoAI Oriented Programming"
+
+navbar:
+  blog_title: lp56的技术小站
+
+footer:
+  statistics:
+    enable: true
+    source: "busuanzi"  # 可选 leancloud | busuanzi  根据自己需求选择
+    pv_format: "总访问量 {} 次"  # 显示的文本，{}是数字的占位符（必须包含)，下同
+    uv_format: "总访客数 {} 人"
+
+post:
+  comments:
+    enable: true
+    type: waline
+waline:
+  serverURL: 'https://waline-test-ltphvdz3p-lenstoffps-projects.vercel.app/'
