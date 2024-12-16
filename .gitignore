@@ -1,4 +1,8 @@
 /node_modules/
+<<<<<<< HEAD
 /node_modules/*
 /public/
 /public/*
+=======
+/public/
+>>>>>>> e9cf528 ('addBGM')
